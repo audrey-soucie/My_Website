@@ -14,8 +14,8 @@ I am also a student at [Weber State University](https://www.weber.edu)
 
 ![This is a picture in Michigan](images/IMG_20210714_173717030_MP.jpg)
 
-|left|mid-left|mid-right|right|
-|----|:-------|:--------|:----|
-|a1  |a2      |a3       |a4   |
-|b1  |b2      |b3       |b4   |
-|c1  |c2      |c3       |c4 ha|
+|bands         |movies          |stuff               |books           |
+|--------------|:---------------|:-------------------|:---------------|
+|Mother Mother |Moonrise kingdom|Squishmallows       |The Green Mile  |
+|Gorillaz      |The Big Year    |Cream Cheese Wantons|The Stand (2021)|
+|Penelope Scott?|My Cousin Vinnie|Nail Polish  |The Stranger     |
