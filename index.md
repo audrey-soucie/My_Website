@@ -7,9 +7,11 @@ this site was built using [GitHib Pages](https://pages.github.com/)
 I am also a student at [Weber State University](https://www.weber.edu)
 
 >A random and cuuute cat
+
 ![This is a random cat](images/cat.jpg)
 
 >A photo I took in Michigan
+
 ![This is a picture in Michigan](images/IMG_20210714_173717030_MP.jpg)
 
 |left|mid-left|mid-right|right|
