@@ -18,4 +18,4 @@ I am also a student at [Weber State University](https://www.weber.edu)
 |--------------|:---------------|:-------------------|:---------------|
 |Mother Mother |Moonrise kingdom|Squishmallows       |The Green Mile  |
 |Gorillaz      |The Big Year    |Cream Cheese Wantons|The Stand (2021)|
-|Penelope Scott?|My Cousin Vinnie|Nail Polish  |The Stranger     |
+|Penelope Scott|My Cousin Vinnie|Nail Polish  |The Stranger     |
