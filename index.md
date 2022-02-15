@@ -1,7 +1,7 @@
 # Hello Internet! This is Audrey
->My name is Audrey and I do not have much to say in these two paragraphs accept that I would like to thank my mom and dad for being cool I guess.
+>My name is Audrey. I am a freshman in college majoring in Computer science. I like video games, and books, and movies, and other things.
 
->loving the college life, it is pretty boring compared to what I have expected, but life is full of dissapointments. I am fine, and ok, thank you for listening...
+>College life is a bit tiring, but fun I guess. What else is there to say? I have half a tank of gas in my car, and I need to clean my apartment. That is all I suppose, farewell!
 
 this site was built using [GitHib Pages](https://pages.github.com/)
 I am also a student at [Weber State University](https://www.weber.edu)
