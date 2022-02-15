@@ -1,5 +1,5 @@
 # Hello Internet! This is Audrey
->My name is Audrey. I am a freshman in college majoring in Computer science. I like video games, and books, and movies, and other things.
+>My name is Audrey. I am a freshman in college majoring in Computer science. I really like video games, and books, and movies, and other things.
 
 >College life is a bit tiring, but fun I guess. What else is there to say? I have half a tank of gas in my car, and I need to clean my apartment. That is all I suppose, farewell!
 
